@@ -7,6 +7,13 @@
 CatalystAI 2025 is a cutting-edge AI-assisted academic reasoning framework, purpose-built to analyze, interpret, and generate deep, context-aware engagement with uploaded documents. Leveraging the power of **Gemini Pro**, **LangChain**, and **AstraDB**, it operates as an intelligent assistant, educator, and evaluator — delivering comprehensive academic analysis through both **textual and voice-driven interactions**.
 
 This framework is not a chatbot. It is an **autonomous academic engine** capable of cross-referencing documents, scoring understanding, generating expert-level questioning, and producing structured session archives for revision, research, and model training.
+#Demo
+<br>
+<a href="https://drive.google.com/file/d/1nT4wa5c28xp8QVmRN8GQs-ZuFF2jhZgP/view?usp=sharing">Features: Query oriented answers, Document  Completiton Score</a><br>
+<a href="https://drive.google.com/file/d/1HPPhWvQlRaYS4zNnUIXwesBgZ_qaoUJ_/view?usp=sharing">Features: Accuracy Score</a><br>
+<a href="https://drive.google.com/file/d/1AVIsoWPNTmakMTqOevCPqzipOhaFjRuD/view?usp=sharing">Features: Deep search feature, Expert Mode</a><br>
+<a href="https://drive.google.com/file/d/1NuXdFt5Yl9K6VeAQXoWD8eE_0Tbn12yZ/view?usp=sharing">Features: Web search, Document search override</a><br>
+<a href="https://drive.google.com/file/d/1ZmCEBsfmSXqTUi-FMdoxYkm1P1GLItBy/view?usp=sharing">Features: Web search, JSON Exporting, Chat Exporting ability</a><br>
 
 ---
 
